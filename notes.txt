@@ -1,0 +1,4 @@
+I need to see if i can make 8-10 different mini games of varing difficulty so there's a diffrent game each time someone plays
+I need a random generator so that there's a 10 percent chance that the captain in is a room each time a task is tryin to get done
+maybe have dialogue options? maybe not. but if i have time maybe and I'll add a suspicion meeter for  fun.
+Coin flip mechanic to decide if you're gonna be a spy or not. Maybe kill the captain if you are and just get home if you aren't?
